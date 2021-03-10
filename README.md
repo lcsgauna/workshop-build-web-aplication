@@ -1,4 +1,4 @@
-# jera-workshop
+# Workshop build Web Aplication
 
 ## Project setup
 ```
